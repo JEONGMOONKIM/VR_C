@@ -10,7 +10,7 @@
 
 # Project Virtual_Character
 
-* (간략히 프로젝트를 설명하고, 최종 목표가 무엇인지에 대해 기술)
+* (간략히 프로젝트를 설명하고, 최종 목표가 무엇인지에 대해 기술)  
 Pose Estimate, Face Tracking과 목소리 변환 AI를 이용하여 3D 모델을 컨트롤하는 프로그램을 만드는 것이 최종 목표
 
 ## High Level Design
