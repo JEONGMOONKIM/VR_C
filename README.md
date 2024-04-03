@@ -1,4 +1,4 @@
-#Team: 100만 버튜버  
+# Team: 100만 버튜버  
 * Members
   | Name | Role |
   |----|----|
